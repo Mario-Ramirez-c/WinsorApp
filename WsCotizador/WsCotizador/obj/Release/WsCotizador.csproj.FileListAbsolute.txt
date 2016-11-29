@@ -1,0 +1,5 @@
+F:\ALAF\WsCotizador\WsCotizador\bin\WsCotizador.dll.config
+F:\ALAF\WsCotizador\WsCotizador\bin\WsCotizador.dll
+F:\ALAF\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+F:\ALAF\WsCotizador\WsCotizador\obj\Release\WsCotizador.dll
+F:\ALAF\WsCotizador\WsCotizador\obj\Release\WsCotizador.pdb

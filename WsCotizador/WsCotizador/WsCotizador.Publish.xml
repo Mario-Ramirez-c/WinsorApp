@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Web Services Tpco\WsCtOnline" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/itextsharp.dll" publishTime="02/27/2013 10:49:08" />
+    <file relUrl="bin/WsCotizador.dll" publishTime="06/23/2015 12:01:27" />
+    <file relUrl="Service1.asmx" publishTime="03/20/2015 11:20:51" />
+    <file relUrl="Web.config" publishTime="05/19/2015 18:03:54" />
+    <file relUrl="bin/WsCotizador.pdb" publishTime="06/23/2015 12:01:27" />
+  </publishProfile>
+</publishData>

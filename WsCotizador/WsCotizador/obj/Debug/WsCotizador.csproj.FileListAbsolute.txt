@@ -1,0 +1,33 @@
+C:\Users\Desarrollo2\documents\visual studio 2010\Projects\WsCotizador\WsCotizador\bin\WsCotizador.dll
+C:\Users\Desarrollo2\documents\visual studio 2010\Projects\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+C:\Users\Desarrollo2\documents\visual studio 2010\Projects\WsCotizador\WsCotizador\bin\itextsharp.dll
+C:\Users\Desarrollo2\documents\visual studio 2010\Projects\WsCotizador\WsCotizador\obj\Debug\WsCotizador.dll
+C:\Users\Desarrollo2\documents\visual studio 2010\Projects\WsCotizador\WsCotizador\obj\Debug\WsCotizador.pdb
+C:\Users\Desarrollo2\documents\visual studio 2010\Projects\WsCotizador\WsCotizador\obj\Debug\WsCotizador.csprojResolveAssemblyReference.cache
+C:\Users\mramirez\Desktop\WsCotizador\WsCotizador\bin\WsCotizador.dll
+C:\Users\mramirez\Desktop\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+C:\Users\mramirez\Desktop\WsCotizador\WsCotizador\obj\Debug\WsCotizador.csprojResolveAssemblyReference.cache
+C:\Users\mramirez\Desktop\WsCotizador\WsCotizador\obj\Debug\WsCotizador.dll
+C:\Users\mramirez\Desktop\WsCotizador\WsCotizador\obj\Debug\WsCotizador.pdb
+C:\Users\Desarrollo2\Desktop\Propuestas\Cotizador\WsCotizador\WsCotizador\bin\WsCotizador.dll
+C:\Users\Desarrollo2\Desktop\Propuestas\Cotizador\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+C:\Users\Desarrollo2\Desktop\Propuestas\Cotizador\WsCotizador\WsCotizador\bin\itextsharp.dll
+C:\Users\Desarrollo2\Desktop\Propuestas\Cotizador\WsCotizador\WsCotizador\obj\Debug\WsCotizador.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo2\Desktop\Propuestas\Cotizador\WsCotizador\WsCotizador\obj\Debug\WsCotizador.dll
+C:\Users\Desarrollo2\Desktop\Propuestas\Cotizador\WsCotizador\WsCotizador\obj\Debug\WsCotizador.pdb
+C:\Users\mramirez\Desktop\proyectos\WsCotizador\WsCotizador\bin\WsCotizador.dll
+C:\Users\mramirez\Desktop\proyectos\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+C:\Users\mramirez\Desktop\proyectos\WsCotizador\WsCotizador\obj\Debug\WsCotizador.csprojResolveAssemblyReference.cache
+C:\Users\mramirez\Desktop\proyectos\WsCotizador\WsCotizador\obj\Debug\WsCotizador.dll
+C:\Users\mramirez\Desktop\proyectos\WsCotizador\WsCotizador\obj\Debug\WsCotizador.pdb
+C:\Users\Desarrollo3\Documents\APP COMPLETA COTIZADOR\WsCotizador\WsCotizador\bin\WsCotizador.dll
+C:\Users\Desarrollo3\Documents\APP COMPLETA COTIZADOR\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+C:\Users\Desarrollo3\Documents\APP COMPLETA COTIZADOR\WsCotizador\WsCotizador\obj\Debug\WsCotizador.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo3\Documents\APP COMPLETA COTIZADOR\WsCotizador\WsCotizador\obj\Debug\WsCotizador.dll
+C:\Users\Desarrollo3\Documents\APP COMPLETA COTIZADOR\WsCotizador\WsCotizador\obj\Debug\WsCotizador.pdb
+F:\ALAF\WsCotizador\WsCotizador\bin\WsCotizador.dll.config
+F:\ALAF\WsCotizador\WsCotizador\bin\WsCotizador.dll
+F:\ALAF\WsCotizador\WsCotizador\bin\WsCotizador.pdb
+F:\ALAF\WsCotizador\WsCotizador\obj\Debug\WsCotizador.csprojResolveAssemblyReference.cache
+F:\ALAF\WsCotizador\WsCotizador\obj\Debug\WsCotizador.dll
+F:\ALAF\WsCotizador\WsCotizador\obj\Debug\WsCotizador.pdb
