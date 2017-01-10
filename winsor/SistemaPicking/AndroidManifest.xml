@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.sistema.picking"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <supports-screens android:requiresSmallestWidthDp="600" />
+
+    <uses-sdk
+        android:maxSdkVersion="23"
+        android:minSdkVersion="16"
+        android:targetSdkVersion="20" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actMenuRecepcionProducto"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actResepcionProducto"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actMenuPickingProducto"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actPickingIndividual"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actListarOrdenIndividual"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actListarOrdenConsolidado"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".actPickingConsolidado"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Actymaquila"
+            android:label="@string/title_activity_actymaquila" >
+        </activity>
+        <activity
+            android:name=".Imprimir"
+            android:label="@string/title_activity_imprimir" >
+        </activity>
+        <activity
+            android:name=".Movimiento"
+            android:label="@string/title_activity_movimiento" >
+        </activity>
+        <activity
+            android:name=".Etiquetado"
+            android:label="@string/title_activity_etiquetado" >
+        </activity>
+        <activity
+            android:name=".Invetario"
+            android:label="@string/title_activity_invetario" >
+        </activity>
+        <activity
+            android:name=".InvetarioCiclico"
+            android:label="@string/title_activity_invetario_ciclico" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name=".actMenuPrincipalSistema"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".Menu_inventario"
+            android:label="@string/title_activity_menu_inventario" >
+        </activity>
+        <activity
+            android:name=".Menu_general"
+            android:label="@string/title_activity_menu_general" >
+        </activity>
+        <activity
+            android:name=".Busqueda_Producto"
+            android:label="@string/title_activity_busqueda__producto" >
+        </activity>
+        <activity
+            android:name=".ImprimirCodigo"
+            android:label="@string/title_activity_imprimir_codigo" >
+        </activity>
+        <activity
+            android:name=".RespuestOcPicking"
+            android:label="@string/title_activity_respuest_oc_picking" >
+        </activity>
+    </application>
+
+</manifest>
